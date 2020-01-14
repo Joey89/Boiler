@@ -1,0 +1,16 @@
+{
+    "name": "joe/boiler",
+    "description": "wordpress boilerplate",
+    "authors": [
+        {
+            "name": "joey",
+            "email": "under767@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"BP\\":"classes"
+    	}
+    }
+}
